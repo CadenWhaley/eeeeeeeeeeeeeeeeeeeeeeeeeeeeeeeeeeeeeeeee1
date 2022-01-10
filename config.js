@@ -1,10 +1,10 @@
 //Here Is The setup & paste ur token in here tnks :)
 
-exports.TOKEN = "YOUR DISCORD BOT TOKEN";
+exports.TOKEN = "ODk5NDI0NzA4Mjg0NTI2NTky.YWykiA.XfSeSxeVKudk6g-rB98WeRNJEGc";
 
-exports.DBL_API_KEY = "YOUR DBL API KEY";
+exports.DBL_API_KEY = "mongodb+srv://tc3NXXu7mzhk4lJq:IvYOEfwFrKw02S9K@cluster0.chlqa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
-exports.PREFIX = "rx!";
+exports.PREFIX = ".";
 
 exports.GOOGLE_API_KEY = "AIzaSyDzKnUyDiDaZru7_zbAkPbIdqhhnjLvd8U"; //No Need To Set It Up
 
